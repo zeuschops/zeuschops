@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a fourth-year University student with 2 courses left before I graduate. Have some information about me;
+
 - 🔭 I’m currently working on a few different projects, but mainly doing research into more C++ application design.
 - 🌱 I’m currently learning UI\UX design.
 - 👯 I’m looking to collaborate on collective designs for open source applications.
